@@ -40,7 +40,7 @@ The agent will walk you through it. Takes about 1 minute.
 **1. Clone the repo**
 
 ```bash
-git clone https://github.com/zarazhangrui/tab-out.git
+git clone https://github.com/sagekobe/Remixed_TabOut.git
 ```
 
 **2. Load the Chrome extension**
